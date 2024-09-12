@@ -16,12 +16,11 @@ This is a simple and user-friendly News Application that provides up-to-date new
 
 ## Screenshots
 
-
-![pic1](https://github.com/user-attachments/assets/f7826255-e53b-493e-9e68-250289e208ef)
+![pic1](https://github.com/user-attachments/assets/ddb3df2f-0a79-47a2-81fb-df6897bd0d65)
 
 After clicking on any particular news item we will redircted to that particular news article.
 
-![pic2](https://github.com/user-attachments/assets/ddb3df2f-0a79-47a2-81fb-df6897bd0d65)
+![pic2](https://github.com/user-attachments/assets/f7826255-e53b-493e-9e68-250289e208ef)
 
 ## Technologies Used
 
